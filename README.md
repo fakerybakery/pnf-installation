@@ -1,2 +1,2 @@
 # installation
-Personalized News Feed Installation Docs
+## [Please see the Wiki](https://github.com/pnfproj/installation/wiki)
